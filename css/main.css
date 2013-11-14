@@ -67,6 +67,7 @@ ul.posts span {
 .site .header a {
   font-weight: bold;
   text-decoration: none;
+  font-size: 175%;
 }
 
 .site .header h1.title {
